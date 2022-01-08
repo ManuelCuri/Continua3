@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Continua3</string>
+    <string name="tittle">Ingresa tus mejores Imagenes</string>
+    <string name="Login_Username">Username</string>
+    <string name="Login_password">password</string>
+    <string name="login_button">Login</string>
+    <string name="login_cancel_button">Cancel</string>
+    <string name="login_error_message">La contraseña debe contener al menos 6 caracteres</string>
+</resources>
