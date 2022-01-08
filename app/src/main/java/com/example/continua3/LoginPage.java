@@ -31,6 +31,7 @@ public class LoginPage extends Fragment {
                     passwordTextInput.setError(getString(R.string.login_error_message));
                 }else {
                     passwordTextInput.setError(null);
+                    ((NavigationHost) getActivity()).navigateTo(new HomePage(),false);
                 }
             }
         });
