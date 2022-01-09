@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="lightblue">#63ccff</color>
     <color name="title">#0019ff</color>
+    <color name="fontCard">#e3f2fd</color>
 </resources>

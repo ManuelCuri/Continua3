@@ -28,13 +28,12 @@ public class ProductEntry {
     public final String price;
     public final String description;
 
-    public ProductEntry(String title, String dynamiUrl, String url, String price, String description) {
-        this.title = title;
-        this.dynamiUrl = Uri.parse(dynamiUrl);
+    public ProductEntry(String title, String dynamiUrl, String url, String price, String description){
+        this.title=title;
+        this.dynamiUrl=Uri.parse(dynamiUrl);
         this.url = url;
         this.price = price;
         this.description = description;
-
     }
 
     public static List<ProductEntry> initProductEntryList (Resources resources){
@@ -44,16 +43,16 @@ public class ProductEntry {
         try {
             Reader reader = new BufferedReader(new InputStreamReader(inputStream, "UTF-8"));
             int pointer;
-            while ((pointer = reader.read(buffer)) != 1){
-                writer.write(buffer,0, pointer);
+            while ((pointer = reader.read(buffer)) != -1){
+                writer.write(buffer, 0 , pointer);
             }
         }catch (IOException exception){
-            Log.e(TAG, "Hubo un error al momento de leer el archivo Json", exception);
-        } finally {
+            Log.e(TAG, "Hubo un error al momento de ller y escribir el archivo Json", exception);
+        }finally {
             try {
                 inputStream.close();
             }catch (IOException exception){
-                Log.e(TAG, "Hubo un problema al cerrar el imput stream", exception);
+                Log.e(TAG, "Hubo un error al cerrar el input stream", exception);
             }
         }
 
