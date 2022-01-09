@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Atskuri, Georgia",
+    "url": "https://images.unsplash.com/photo-1599844240448-6c2b0e8365cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "price": "Un destino con una riqueza de atracciones y experiencias inolvidables que se pueden encontrar aquí"
+  },
+  {
+    "title": "United Arab Emirates",
+    "url": "https://images.unsplash.com/photo-1579524655638-351438cb80d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "price": "Lugar lleno de momentos agradales y unas vistas increibles"
+  },
+  {
+    "title": "Italy",
+    "url": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=683&q=80",
+    "price": "Destino culinario, excelente para pasar unas vacaciones en familia"
+  },
+  {
+    "title": "Brazil, Rio de Janeiro",
+    "url": "https://media.istockphoto.com/photos/christ-the-redeemer-in-rio-de-janeiro-picture-id518230906?b=1&k=20&m=518230906&s=170667a&w=0&h=Sth2PcFWyncDHsaqTL7Cp0oVJAwJcrcAyjAOovii5nQ=",
+    "price": "Lugar lleno de arte cultural por donde lo veas y uno de los mejores destinos"
+  },
+  {
+    "title": "Peru, Maraz",
+    "url": "https://images.unsplash.com/photo-1473455811944-fdd1b0f282f3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "price": "Lugar cultural donde se encuentran puntos misticos y hermosos"
+  },
+  {
+    "title": "Dubai",
+    "url": "https://images.unsplash.com/photo-1582120031356-35f21bf61055?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "price": "El lugar mas fuera de este mundo dada las vistas que puedes tener"
+  },
+  {
+    "title": "New York",
+    "url": "https://images.unsplash.com/photo-1516893842880-5d8aada7ac05?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+    "price": "La gran manzana y un vistaso a la esstatua de la libertad"
+  },
+  {
+    "title": "Japan, Fuji mountain",
+    "url": "https://media.istockphoto.com/photos/fuji-mountain-and-cherry-blossoms-in-spring-japan-picture-id1137578281?b=1&k=20&m=1137578281&s=170667a&w=0&h=qGuJR49oVXe1uS9BLyY7iY1orrrQZMJ7a7JM1AVC4gs=",
+    "price": "Hermoso lugar lleno de cultura e historia"
+  },
+  {
+    "title": "Paris, france",
+    "url": "https://images.unsplash.com/photo-1431274172761-fca41d930114?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+    "price": "el pais del amor, perfecto para parejas y para solteros"
+  },
+  {
+    "title": "Moscow, Russia",
+    "url": "https://images.unsplash.com/photo-1512495039889-52a3b799c9bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "price": "un excelente lugar para empezar a ver el mundo desde otra perspectiva"
+  }
+]
