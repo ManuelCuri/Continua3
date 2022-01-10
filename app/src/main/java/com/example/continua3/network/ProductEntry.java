@@ -47,12 +47,12 @@ public class ProductEntry {
                 writer.write(buffer, 0 , pointer);
             }
         }catch (IOException exception){
-            Log.e(TAG, "Hubo un error al momento de ller y escribir el archivo Json", exception);
+            Log.e(TAG, "Hubo un error fatal en el archivo Json", exception);
         }finally {
             try {
                 inputStream.close();
             }catch (IOException exception){
-                Log.e(TAG, "Hubo un error al cerrar el input stream", exception);
+                Log.e(TAG, "Hubo un problema", exception);
             }
         }
 
