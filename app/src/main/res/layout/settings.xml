@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:background="@color/Font"
     android:orientation="vertical"
-    tools:context=".Settings">
+    tools:context=".MainActivity">
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
@@ -85,38 +85,6 @@
                 android:padding="15dp"
                 android:background="@drawable/button_white"
                 >
-                <RelativeLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content">
-                    <ImageView
-                        android:layout_width="40dp"
-                        android:layout_height="40dp"
-                        android:background="@drawable/button_nigth_mode"
-                        android:id="@+id/nigthModeIcon"
-                        android:padding="7dp"
-                        android:src="@drawable/ic_baseline_nights_stay_24"
-                        />
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_centerVertical="true"
-                        android:text="Night Mode"
-                        android:textColor="@color/black"
-                        android:textStyle="bold"
-                        android:layout_toEndOf="@+id/nigthModeIcon"
-                        android:layout_marginStart="16dp"
-                        />
-                    <Switch
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_alignParentEnd="true"
-                        android:layout_centerVertical="true"
-                        android:switchMinWidth="50dp"
-                        android:theme="@style/nightModeSwitch"
-                        />
-                </RelativeLayout>
-
-
                 <RelativeLayout
                     android:layout_marginTop="12dp"
                     android:layout_width="match_parent"
