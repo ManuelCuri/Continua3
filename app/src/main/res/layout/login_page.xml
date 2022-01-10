@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".LoginPage"
+    android:background="@color/Font"
     >
     <LinearLayout
         android:layout_width="match_parent"
@@ -24,16 +25,23 @@
             android:textSize="28dp"
             android:textAllCaps="true"
             android:text="Login"
-            android:textColor="@color/title"
+            android:textColor="@color/white"
             />
         <ImageView
             android:layout_width="125dp"
             android:layout_height="120dp"
             android:layout_gravity="center_horizontal"
-            android:layout_marginTop="0dp"
-            android:layout_marginVertical="80dp"
+            android:layout_marginVertical="50dp"
             android:layout_marginBottom="16dp"
             app:srcCompat="@drawable/login"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textAlignment="center"
+            android:textSize="30dp"
+            android:text="Gift X Photo"
             />
         <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/username_text_input"

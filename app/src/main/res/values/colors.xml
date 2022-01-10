@@ -10,6 +10,8 @@
     <color name="lightblue">#63ccff</color>
     <color name="title">#0019ff</color>
     <color name="fontCard">#e3f2fd</color>
+    <color name="Font">#010044</color>
+    <color name="CardFont">#000026</color>
 
     <color name="nigth_mode">#D782BA</color>
     <color name="primary">#E18AD4</color>

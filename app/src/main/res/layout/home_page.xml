@@ -15,7 +15,7 @@
             style="@style/Widget.Continua.Toolbar"
             android:layout_width="match_parent"
             android:layout_height="60dp"
-            app:title="Dronix post"
+            app:title="gift X photo"
             app:navigationIcon="@drawable/ic_baseline_menu_24"
             />
     </com.google.android.material.appbar.AppBarLayout>
@@ -23,7 +23,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginTop="56dp"
-        android:background="@color/purple_200"
+        android:background="@color/Font"
         android:paddingStart="@dimen/product_grid_spacing"
         android:paddingEnd="@dimen/product_grid_spacing"
         app:layout_behavior="@string/appbar_scrolling_view_behavior"

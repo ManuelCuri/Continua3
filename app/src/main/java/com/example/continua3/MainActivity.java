@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity implements NavigationHost{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         findViewById(R.id.edit_image);
 
         if(savedInstanceState == null){
